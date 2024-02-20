@@ -1,2 +1,2 @@
 # COSC-112
-COSC 112 - C
+## All work done under this course
