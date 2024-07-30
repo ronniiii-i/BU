@@ -1,3 +1,3 @@
-# COSC-101
+# BU
 
-## All work done under this course
+## All work done in BU
