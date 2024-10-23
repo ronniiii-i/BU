@@ -1,0 +1,1 @@
+The avg of the numbers are: 47.0
